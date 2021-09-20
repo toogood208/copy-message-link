@@ -37,7 +37,8 @@ I will use the message information returned to generate a link which contains a 
 #### how to copy a message link
 - use the endpoint **https://dm.zuri.chat/api/v1/copymessagelink/**
 - input the message_id after the stroke  **https://dm.zuri.chat/api/v1/copymessagelink/message_id**
-- it will create a room and return the **mesaage_id**,**room_id** and **the message_link**, the message link contains the messages
+- it will create a room and return the **mesaage_id**,**room_id** and **the message_link**, the message link contains the messages.
+
 ***please note the createroom is a get method***
 
 
