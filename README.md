@@ -80,7 +80,7 @@ link: "https://dm.zuri.chat/getmessage/6146d126845b436ea04d102e/61480c0de4b2aebf
 Code: 500
  Description: bad request
 {
-  "status": 400,
+  "status": 500,
   "message": "internal server error"
 }
 ```
