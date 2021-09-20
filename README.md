@@ -23,7 +23,7 @@ check the [Standard Error Responses](#standard-error-responses) for more context
 base url: https://dm.zuri.chat/docs/v1
 ### /copymessagelink/{message_id}
 - **Endpoint**: copymessagelink/{message_id}
-- **Method**: Post
+- **Method**: GET
 - **Description**: This is used to retrieve a single message. It takes a message_id as query params.
 If message_id is provided, it returns a dictionary with information about the message,
 or a 204 status code if there is no message with the same message id.
